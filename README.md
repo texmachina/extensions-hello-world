@@ -1,5 +1,4 @@
 # Extensions-Hello-World
-The Simplest Extension in the (Hello) World.
 
 ## Motivation
 The Hello World sample is designed to get you started building a Twitch Extension quickly. It contains all the key parts of a functioning Extension and can be immediately run in the [Developer Rig](https://github.com/twitchdev/developer-rig).  For a fast guide to get started, visit the Developer Rig documentation.
